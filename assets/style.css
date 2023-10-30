@@ -65,6 +65,7 @@ section {
     flex: 0 0 400px;
     background-color: #270841;
     padding: 20px;
+    margin: 20px;
 }
 
 section img {
